@@ -1,0 +1,9 @@
+Aluno: Daniel Faia Monteiro da Silva
+TIA: 31932029
+
+Qual é a sua ideia de Computação Visual?
+
+Minha ideia sobre essa matéria é aprender como as imagens são
+mostradas au usuário, como elas são de fato, propriedades de imagens,
+o que é possível fazer com imagens e programação, talvez aprender sobre
+desenvolvimento web, HTML e CSS, etc.
